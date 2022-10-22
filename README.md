@@ -1,1 +1,2 @@
-# Home_work_GoIt-1.1
+# Hello!
+-This is my first homework with GoIT.
